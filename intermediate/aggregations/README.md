@@ -8,6 +8,8 @@ across multi-column aggregations.
 - Manhattan Distance using ABS and MAX/MIN aggregations
 - Euclidean Distance using POWER, SQRT and MAX/MIN aggregations
 - Arithmetic combining multiple aggregate functions in one query
+- Median using correlated subqueries
+- Table aliasing to reference outer query inside subquery
 
 ## Solutions
 - 01 — Weather Observation Station 18 (Manhattan Distance)
