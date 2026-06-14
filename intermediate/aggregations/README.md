@@ -12,3 +12,4 @@ across multi-column aggregations.
 ## Solutions
 - 01 — Weather Observation Station 18 (Manhattan Distance)
 - 02 — Weather Observation Station 19 (Euclidean Distance)
+- 03 — Weather Observation Station 20 ( Median Distance)
